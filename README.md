@@ -9,6 +9,10 @@ They're:
 - Generator
 - Async Function
 
+## Slides
+
+See the Keynote file.
+
 ## Requirement
 
 - A node.js version which support Promise and Generator natively (v5 is OK).
