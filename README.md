@@ -14,8 +14,10 @@ They're:
 - A node.js version which support Promise and Generator natively (v5 is OK).
 - `npm install` the dependencies.
 
-## How to see the example
+## How to run the example
 
 There're 5 examples. The name follows `example-<type>`. Just open and check them, they're very simple.
 
-To run the example, just use `node example-<type>`. Async Function example is different because it requires `babel-node` command line. To reduce some typing I write an NPM script in `package.json`. You can run `npm run ex-async`.
+To run the example, just use `node example-<type>`.
+
+Async Function example is different because it requires `babel-node` command line. To reduce some typing I write an NPM script in `package.json`. You can run `npm run ex-async`.
